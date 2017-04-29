@@ -1,0 +1,13 @@
+{
+    "name": "Dima/netpeak",
+    "description": "My project for netpeak",
+    "authors": [
+        {
+            "name": "Dima Dzyubenko",
+            "email": "dimadzyubenko25@gmail.com"
+        }
+    ],
+    "require": {
+        "abraham/twitteroauth": "^0.5.4"
+    }
+}
