@@ -7,10 +7,8 @@
   <meta http-equiv="refresh" content="10">
   <link rel="stylesheet" type="text/css" href="/css/style.css">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-
   <script src="/js/jquery-3.1.1.min.js" type="text/javascript"></script>
   <script src="/js/script.js" type="text/javascript"></script>
-
 </head>
 <body>
 
